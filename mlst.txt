@@ -1,0 +1,1 @@
+spades/contigs.fasta	ecoli_achtman_4	491	adk(13)	fumC(39)	gyrB(19)	icd(36)	mdh(30)	purA(14)	recA(82)
